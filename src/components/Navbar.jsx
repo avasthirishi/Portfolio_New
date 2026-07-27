@@ -153,7 +153,7 @@ export default function Navbar() {
             <a key={l.href} href={l.href} className="nav-link">{l.label}</a>
           ))}
           <a
-            href="https://drive.google.com/file/d/1nB2xsy6hKizy2izmwQyKt1oDMVnhlqKE/view"
+            href="https://drive.google.com/file/d/132_iTPyYBG7doyAxQLayc66-WEZAUJ1V/view"
             target="_blank" rel="noopener noreferrer"
             className="nav-resume"
           >
