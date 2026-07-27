@@ -361,7 +361,7 @@ export default function Contact() {
                 {/* Location */}
                 <div className="contact-info-row">
                   <div className="contact-info-icon"><FaMapMarkerAlt /></div>
-                  <span className="contact-info-val muted">Dwarka, New Delhi, India</span>
+                  <span className="contact-info-val muted">South Extension, New Delhi, India</span>
                 </div>
               </div>
 
